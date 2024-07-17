@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.003397">
+    <testcase classname="Validate the forgotten password functionality" name="Validate the forgotten functionality by giving invalid mobile number" time="14.003397">
+        <system-out><![CDATA[When User should click the forgotten password link..........................passed
+And User should enter invalid mobile number.................................passed
+And User should click the search button.....................................passed
+Then User should navigate to password reset page............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
