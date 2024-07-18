@@ -131,6 +131,12 @@ public class BaseClass {
 	}
 	
 	
+	public static void quitChrome() {
+		
+		driver.quit();
+	}
+	
+	
 	
 	
 	
