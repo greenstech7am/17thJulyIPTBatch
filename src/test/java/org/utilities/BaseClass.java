@@ -136,7 +136,7 @@ public class BaseClass {
 		driver.quit();
 		System.out.println("Kannan Pushed");
 		System.out.println("Happy Friday - Kavin");
-
+		System.out.println("Enjoy the weekend - Kannan");
 	}
 	
 	
