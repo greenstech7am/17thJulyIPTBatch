@@ -134,6 +134,7 @@ public class BaseClass {
 	public static void quitChrome() {
 		
 		driver.quit();
+		System.out.println("Kannan Pushed");
 	}
 	
 	
